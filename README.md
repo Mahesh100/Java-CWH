@@ -18,4 +18,9 @@ Initally java is called as Oak but letter named as Java.
 -Comprasion  operators.
 -Logical Operators.
 -Bitwise Operators.
-      
+
+#Arithametic operators can not works with booleans and % (Modulo operator) operator can not work with floats and doubles.
+
+#Comparsion operators returns the value in true and false.
+
+#
