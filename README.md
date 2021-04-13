@@ -23,4 +23,13 @@ Initally java is called as Oak but letter named as Java.
 
 #Comparsion operators returns the value in true and false.
 
-#
+#Precedence of Operators
+
+Precedence of * and / is equal.
+
+*  and  / has Left to Right associvity.
+
+Operators are applied and evaluated on the base of the precedence.
+
+
+For Example : +,- has less precedence than * and /.
